@@ -204,3 +204,5 @@ shared-dist
 
 ### Shadow Testing Log Files Folder ###
 api/logs/
+temp_auto_push.bat
+temp_interactive_push.bat
